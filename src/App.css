@@ -12,3 +12,30 @@ body {
 	flex-direction: column;
 	min-height: 600px;
 }
+
+.header {
+	font-size: 64px;
+}
+
+.header2 {
+	font-size: 32px;
+	color: #457B9D;
+	margin :10px;
+}
+
+.day .heading {
+	color: #A8DADC;
+}
+
+.day {
+	float: left;
+	width: 100px;
+}
+
+.highlight {
+	color : #E63946;
+}
+
+.amount, .result {
+
+}
